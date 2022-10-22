@@ -20,4 +20,4 @@ Bumping of servers must be done manually by the user only. This includes the use
 ## Invite Reward Based Servers
 Invite reward based servers are strictly not allowed to be bump.
 
-## If your server/ad does not respect the ToS as above, LOA Bump will either leave your server, deletes your ad and your server maybe be blacklisted (in other words, banned from being bumped)
+## If your server/ad does not respect the ToS as above, LOA Bump will leave your server, deletes your ad and your server maybe be blacklisted (in other words, banned from being bumped). The developer has the right to remove any server using LOA Bump.
