@@ -4,7 +4,7 @@ This document entails the privacy policy and agreement that you accept when addi
 
 ## Data Collection
 
-Data is stored in a JSON file and is access by the bot's developer, (Ricardolcm)[https://github.com/Ricardolcm888]. If an event of data loss occurs, the developer will notify users throughout the support servers.
+Data is stored in a JSON file and is access by the bot's developer, [Ricardolcm](https://github.com/Ricardolcm888). If an event of data loss occurs, the developer will notify users throughout the support servers.
 
 Server IDs, channel IDs and message content (server ads) are the main data stored and kept privately in the database and secured but is not always 100% secured. The data is not sold or given to unauthorised 3rd parties unless required by law or Terms of Services.
 
